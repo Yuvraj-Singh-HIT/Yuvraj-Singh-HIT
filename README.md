@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Frontend+Developer+%7C+Code+Craftsman+%7C+Innovation+Enthusiast;Turning+Ideas+into+Interactive+Web+Experiences+%F0%9F%9A%80;Based+in+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+Building+the+Digital+Future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Creepster&size=24&duration=3000&pause=1000&color=8B00FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Growing+Full+Stack+Developer+%F0%9F%95%B8%EF%B8%8F+%7C+Certified+Professional;Deloitte+%E2%9C%A8+%7C+JPMorgan+Chase+%26+Co.+%F0%9F%8F%86;Haunting+the+Digital+Realm+with+Code+%F0%9F%91%BB;Based+in+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+Building+in+the+Shadows)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,17 +10,18 @@
 
 ## 🎯 About Me
 
-```javascript
-const yuvraj = {
-    location: "India 🇮🇳",
-    role: "Frontend Developer",
-    currentFocus: "Building Interactive Web Applications",
-    learning: ["Advanced Web Development", "Modern UI/UX Patterns"],
-    interests: ["Rubik's Cube Speedsolving ⚡", "Coffee Brewing ☕", "Open Source 💻"],
-    motto: "Code with Purpose, Design with Passion",
-    funFact: "I solve Rubik's cubes faster than I debug sometimes! 🎲"
-};
-```
+<div align="center">
+
+### 👻 *Summoned from the depths of code...*
+
+</div>
+
+> **🕷️ A Growing Full Stack Developer** emerging from the digital shadows  
+> **🏆 Certified by:** Deloitte | JPMorgan Chase & Co.  
+> **🌙 Location:** Haunting servers across India 🇮🇳  
+> **⚡ Powers:** Rubik's Cube Speedsolving | Coffee Brewing Rituals ☕  
+> **🔮 Mission:** Conjuring web experiences that transcend the ordinary  
+> **💀 Fun Fact:** I solve Rubik's cubes faster than I debug... or do I? 🎲
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -43,36 +44,36 @@ const yuvraj = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics from the Crypt
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvraj-singh-hit&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B35&title_color=FF6B35&icon_color=FFA500&text_color=FFFFFF&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-singh-hit&layout=compact&theme=radical&border_color=FF6B35&title_color=FF6B35&text_color=FFFFFF&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvraj-singh-hit&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&border_color=8B00FF&title_color=8B00FF&icon_color=9D00FF&text_color=C0C0C0&bg_color=0D1117&hide=commits"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-singh-hit&layout=compact&theme=tokyonight&border_color=8B00FF&title_color=8B00FF&text_color=C0C0C0&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-singh-hit&theme=radical&border=FF6B35&stroke=FF6B35&ring=FF6B35&fire=FFA500&currStreakLabel=FFA500" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-singh-hit&theme=tokyonight&border=8B00FF&stroke=8B00FF&ring=8B00FF&fire=9D00FF&currStreakLabel=9D00FF&background=0D1117" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvraj-singh-hit&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvraj-singh-hit&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 🎨 Contribution Graph
+## 🎨 Haunted Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj-singh-hit&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=FF6B35&line=FFA500&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj-singh-hit&theme=tokyo-night&hide_border=true&area=true&custom_title=Where%20Spirits%20Code&color=8B00FF&line=9D00FF&point=FFFFFF&bg_color=0D1117" alt="Contribution Graph"/>
 </div>
 
-## 🌟 What I'm Up To
+## 🌟 Rituals in Progress
 
-- 🔭 **Currently Working On:** Revolutionary web applications that push boundaries
-- 🌱 **Learning:** Advanced Web Development from W3 Web School
-- 👯 **Open to Collaborate:** Always ready to build something extraordinary
-- 🤝 **Looking for:** Passionate developers to solve real-world problems
-- 💡 **Ask Me About:** Frontend Development, Web Design, Coffee Recommendations
+- 🔭 **Summoning:** Revolutionary full-stack applications from the void
+- 🌱 **Learning:** Ancient secrets of Advanced Web Development
+- 👯 **Seeking:** Dark mages to collaborate on cursed projects
+- 🤝 **Open to:** Fellow developers brave enough to venture into the unknown
+- 💡 **Whisper to me about:** Full Stack Development, Web Necromancy, Forbidden Coffee Recipes
 
-## 🤝 Let's Connect
+## 🤝 Enter My Domain
 
 <div align="center">
 
@@ -85,11 +86,11 @@ const yuvraj = {
 
 <div align="center">
   
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&color=FF6B35)
+### 💀 Cursed Dev Wisdom
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&color=8B00FF)
 
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=yuvraj-singh-hit&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
+### 👁️ Souls Who Dare to Watch
+![](https://komarev.com/ghpvc/?username=yuvraj-singh-hit&color=8B00FF&style=for-the-badge&label=WATCHING+SOULS)
 
 </div>
 
@@ -97,8 +98,17 @@ const yuvraj = {
 
 <div align="center">
   
-### ⚡ *"Code is like humor. When you have to explain it, it's bad!"* 
+### ⚡ *"In the darkness of the code, bugs fear to tread..."* 
 
-**Made with ❤️ and ☕ in India**
+**Crafted with 🕷️ and ☕ in the Haunted Servers of India**
+
+```
+     ___
+    /   \
+   | O O |
+   |  ^  |    < Ghost Watching Over the Code
+   | \_/ |
+    \___/
+```
 
 </div>
