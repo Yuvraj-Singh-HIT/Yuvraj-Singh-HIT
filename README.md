@@ -101,14 +101,4 @@
 ### ⚡ *"In the darkness of the code, bugs fear to tread..."* 
 
 **Crafted with 🕷️ and ☕ in the Haunted Servers of India**
-
-```
-     ___
-    /   \
-   | O O |
-   |  ^  |    < Ghost Watching Over the Code
-   | \_/ |
-    \___/
-```
-
 </div>
