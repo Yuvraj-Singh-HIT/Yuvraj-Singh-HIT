@@ -1,104 +1,97 @@
-# <div align="center">🙏, I'm Yuvraj Singh</div>
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Creepster&size=24&duration=3000&pause=1000&color=8B00FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Growing+Full+Stack+Developer+%F0%9F%95%B8%EF%B8%8F+%7C+Certified+Professional;Deloitte+%E2%9C%A8+%7C+JPMorgan+Chase+%26+Co.+%F0%9F%8F%86;Haunting+the+Digital+Realm+with+Code+%F0%9F%91%BB;Based+in+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+Building+in+the+Shadows)](https://git.io/typing-svg)
+
+# 👋 Hey, I'm Yuvraj Singh
+
+### Full Stack Developer | Problem Solver | Digital Craftsman
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuvraj-singh-7853852a7)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvraj.singh.cse28@heritageit.edu.in)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## 🎯 About Me
+## 🚀 About Me
 
-<div align="center">
+I'm a passionate full stack developer crafting innovative web experiences that push boundaries. With certifications from **Deloitte** and **JPMorgan Chase & Co.**, I bring enterprise-level expertise to every project I touch.
 
-### 👻 *Summoned from the depths of code...*
+**Based in:** 📍 India  
+**Superpower:** Solving Rubik's cubes at lightning speed—because pattern recognition is everything  
+**Fuel:** Coffee, curiosity, and clean code
 
-</div>
+> *Building the web, one pixel and API call at a time.*
 
-> **🕷️ A Growing Full Stack Developer** emerging from the digital shadows  
-> **🏆 Certified by:** Deloitte | JPMorgan Chase & Co.  
-> **🌙 Location:** Haunting servers across India 🇮🇳  
-> **⚡ Powers:** Rubik's Cube Speedsolving | Coffee Brewing Rituals ☕  
-> **🔮 Mission:** Conjuring web experiences that transcend the ordinary  
-> **💀 Fun Fact:** I solve Rubik's cubes faster than I debug... or do I? 🎲
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+## 💻 Tech Stack
 
-## 🛠️ Tech Arsenal
+### **Frontend & Frameworks**
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 
-<div align="center">
+### **Backend & Runtime**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=fff)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=fff)
 
-### Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=fff)
 
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### **Cloud & Database**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-</div>
+### **AI & Tools**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=fff)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=flat-square&logo=githubcopilot&logoColor=fff)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+### **Package Managers**
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=fff)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=fff)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=fff)
 
-## 📊 GitHub Analytics from the Crypt
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvraj-singh-hit&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&border_color=8B00FF&title_color=8B00FF&icon_color=9D00FF&text_color=C0C0C0&bg_color=0D1117&hide=commits"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-singh-hit&layout=compact&theme=tokyonight&border_color=8B00FF&title_color=8B00FF&text_color=C0C0C0&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-singh-hit&theme=tokyonight&border=8B00FF&stroke=8B00FF&ring=8B00FF&fire=9D00FF&currStreakLabel=9D00FF&background=0D1117" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvraj-singh-hit&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
-## 🎨 Haunted Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj-singh-hit&theme=tokyo-night&hide_border=true&area=true&custom_title=Where%20Spirits%20Code&color=8B00FF&line=9D00FF&point=FFFFFF&bg_color=0D1117" alt="Contribution Graph"/>
-</div>
-
-## 🌟 Rituals in Progress
-
-- 🔭 **Summoning:** Revolutionary full-stack applications from the void
-- 🌱 **Learning:** Ancient secrets of Advanced Web Development
-- 👯 **Seeking:** Dark mages to collaborate on cursed projects
-- 🤝 **Open to:** Fellow developers brave enough to venture into the unknown
-- 💡 **Whisper to me about:** Full Stack Development, Web Necromancy, Forbidden Coffee Recipes
-
-## 🤝 Enter My Domain
+## 📊 GitHub Analytics
 
 <div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/yuvraj%20singh)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yuvraj%20singh)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/y&athinkverse)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajseptember@gmail.com)
-
+  <img width="49%" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Yuvraj-Singh-HIT&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Yuvraj-Singh-HIT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  
-### 💀 Cursed Dev Wisdom
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&color=8B00FF)
+  <img width="49%" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Yuvraj-Singh-HIT&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
 
-### 👁️ Souls Who Dare to Watch
-![](https://komarev.com/ghpvc/?username=yuvraj-singh-hit&color=8B00FF&style=for-the-badge&label=WATCHING+SOULS)
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Open to collaborations, opportunities, and coffee chats ☕**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj_Singh-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuvraj-singh-7853852a7)
+[![Email](https://img.shields.io/badge/Email-yuvraj.singh.cse28@heritageit.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvraj.singh.cse28@heritageit.edu.in)
+
+*💡 "Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <div align="center">
-  
-### ⚡ *"In the darkness of the code, bugs fear to tread..."* 
-
-**Crafted with 🕷️ and ☕ in the Haunted Servers of India**
+  <img src="https://komarev.com/ghpvc/?username=Yuvraj-Singh-HIT&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
