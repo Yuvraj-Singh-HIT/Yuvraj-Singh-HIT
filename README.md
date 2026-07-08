@@ -34,6 +34,7 @@ certifications:
   - Deloitte
   - JPMorgan Chase & Co.
   - Tata
+  - Gemini
 currently_exploring: TensorFlow, scikit-learn, model training pipelines
 superpower: Solving Rubik's cubes at lightning speed — pattern recognition is everything
 fuel: [Coffee, Curiosity, Clean Code]
@@ -108,8 +109,10 @@ fuel: [Coffee, Curiosity, Clean Code]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuvraj-Singh-HIT&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+  <img src="https://github-trophies.vercel.app/?username=Yuvraj-Singh-HIT&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
+
+> If this ever shows broken again, it's almost always the free trophy API hitting a GitHub rate limit or a Vercel cold start — refresh after a minute, or swap the domain back to `github-profile-trophy.vercel.app` (original service) vs `github-trophies.vercel.app` (community fork used above), whichever is currently up.
 
 ---
 
