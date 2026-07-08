@@ -1,97 +1,135 @@
 <div align="center">
 
-# 👋 Hey, I'm Yuvraj Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Yuvraj%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Digital%20Craftsman&descAlignY=55&descSize=18" width="100%"/>
 
-### Full Stack Developer | Problem Solver | Digital Craftsman
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuvraj-singh-7853852a7)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvraj.singh.cse28@heritageit.edu.in)
+<a href="https://www.linkedin.com/in/yuvraj-singh-7853852a7">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Explorer;Building+with+Next.js+%26+Three.js;Turning+Coffee+into+Code+%E2%98%95;Open+to+Big+Opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=8E2DE2&vCenter=true&size=24&pause=1200"/>
+</a>
 
 </div>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuvraj-singh-7853852a7">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yuvraj.singh.cse28@heritageit.edu.in">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Yuvraj-Singh-HIT&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate full stack developer crafting innovative web experiences that push boundaries. With certifications from **Deloitte** and **JPMorgan Chase & Co.**, I bring enterprise-level expertise to every project I touch.
+```yaml
+name: Yuvraj Singh
+role: Full Stack Developer & ML Practitioner
+location: India 🇮🇳
+certifications:
+  - Deloitte
+  - JPMorgan Chase & Co.
+  - Tata
+currently_exploring: TensorFlow, scikit-learn, model training pipelines
+superpower: Solving Rubik's cubes at lightning speed — pattern recognition is everything
+fuel: [Coffee, Curiosity, Clean Code]
+```
 
-**Based in:** 📍 India  
-**Superpower:** Solving Rubik's cubes at lightning speed—because pattern recognition is everything  
-**Fuel:** Coffee, curiosity, and clean code
-
-> *Building the web, one pixel and API call at a time.*
+> *"Building the web, one pixel and API call at a time — and teaching machines to think along the way."*
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Arsenal
 
-### **Frontend & Frameworks**
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+<div align="center">
 
-### **Backend & Runtime**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=fff)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=fff)
+### Frontend & Frameworks
+<img src="https://skillicons.dev/icons?i=nextjs,threejs,vite,html,css,react&theme=dark"/>
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=fff)
+### Backend & Runtime
+<img src="https://skillicons.dev/icons?i=nodejs,bun&theme=dark"/>
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=fff"/>
 
-### **Cloud & Database**
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+### Languages
+<img src="https://skillicons.dev/icons?i=js,python,java,c,bash&theme=dark"/>
 
-### **AI & Tools**
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=fff)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=flat-square&logo=githubcopilot&logoColor=fff)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
+### Cloud & Database
+<img src="https://skillicons.dev/icons?i=gcp,vercel,firebase,supabase,mongodb&theme=dark"/>
 
-### **Package Managers**
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=fff)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=fff)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=fff)
+### Machine Learning & Data
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,py&theme=dark"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model%20Training-8E2DE2?style=flat-square&logo=OpenAI&logoColor=white"/>
+
+### AI Copilots & Tools
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?style=flat-square&logo=githubcopilot&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000"/>
+
+### Package Managers
+<img src="https://skillicons.dev/icons?i=npm,yarn,pnpm&theme=dark"/>
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Yuvraj-Singh-HIT&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Yuvraj-Singh-HIT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Yuvraj-Singh-HIT&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Yuvraj-Singh-HIT&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Yuvraj-Singh-HIT&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Yuvraj-Singh-HIT&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Singh-HIT&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🐍 Contribution Snake
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
 
-**Open to collaborations, opportunities, and coffee chats ☕**
+> Add the [snk workflow](https://github.com/Platane/snk) to your repo's Actions to auto-generate this snake animation of your real contribution graph.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj_Singh-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuvraj-singh-7853852a7)
-[![Email](https://img.shields.io/badge/Email-yuvraj.singh.cse28@heritageit.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvraj.singh.cse28@heritageit.edu.in)
+---
 
-*💡 "Code is like humor. When you have to explain it, it's bad." – Cory House*
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yuvraj-Singh-HIT&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 ---
 
+## 🤝 Let's Build Something Great
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yuvraj-Singh-HIT&style=flat-square&color=blue" alt="Profile Views"/>
+
+**Open to collaborations, full-time roles, ML side quests, and coffee chats ☕**
+
+<a href="https://www.linkedin.com/in/yuvraj-singh-7853852a7">
+  <img src="https://img.shields.io/badge/LinkedIn-Yuvraj_Singh-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:yuvraj.singh.cse28@heritageit.edu.in">
+  <img src="https://img.shields.io/badge/Email-yuvraj.singh.cse28%40heritageit.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*💡 "Code is like humor. When you have to explain it, it's bad." — Cory House*
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
