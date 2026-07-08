@@ -112,8 +112,6 @@ fuel: [Coffee, Curiosity, Clean Code]
   <img src="https://github-trophies.vercel.app/?username=Yuvraj-Singh-HIT&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
-> If this ever shows broken again, it's almost always the free trophy API hitting a GitHub rate limit or a Vercel cold start — refresh after a minute, or swap the domain back to `github-profile-trophy.vercel.app` (original service) vs `github-trophies.vercel.app` (community fork used above), whichever is currently up.
-
 ---
 
 ## 🤝 Let's Build Something Great
