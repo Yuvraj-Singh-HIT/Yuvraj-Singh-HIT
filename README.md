@@ -102,8 +102,6 @@ fuel: [Coffee, Curiosity, Clean Code]
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 
-> Add the [snk workflow](https://github.com/Platane/snk) to your repo's Actions to auto-generate this snake animation of your real contribution graph.
-
 ---
 
 ## 🏆 GitHub Trophies
